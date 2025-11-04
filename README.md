@@ -1,7 +1,10 @@
 My submitted code is in submission/kernel.c
+
 My submitted makefile is in submission/makefile
+
 My writeup is in submission/Writeup.pdf
-Assignment description is below for convenience:
+
+Assignment description is in Extra_Credit_2_description.pdf and included below for convenience:
 
 **CS 214 Extra Credit 2: Advanced C Kernel (100 points)**
 
