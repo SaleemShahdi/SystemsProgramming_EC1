@@ -2,11 +2,11 @@ My submitted code is in submission/kernel.c
 
 My submitted makefile is in submission/makefile
 
-My writeup is in submission/Writeup.pdf
+My submitted writeup is in submission/Writeup.pdf
 
 Assignment description is in Extra_Credit_2_description.pdf and included below for convenience:
 
-**CS 214 Extra Credit 2: Advanced C Kernel (100 points)**
+<p align="center"><strong>CS 214 Extra Credit 2: Advanced C Kernel (100 points)</strong></p>
 
 The goal of this assignment is to continue becoming familiar with C kernels as well as perform a small performance analysis study of your kernel. Recall from assignment 2 that a kernel is a function or library you call from a higher level language, such Python or Java. Your task is to write a C kernel that is equivalent to a Python function and measure the performance differences between them. In addition to handing in programming code, you will hand in a write up that documents the performance difference between the C kernel and the Python version.
 
@@ -65,7 +65,7 @@ To create a shared object (.so) for your C code, you will need to use the flags 
 
 To take as input an image file called “input.png” and output the Python and C versions of the reduced colormap images and colormaps:
 
-python3 24Bit.py input.png output\_image\_Py.png output\_image\_C.png colormap\_Py.txt colormap\_C.txt --seed 214 --num\_centroids 256 --max\_iters 3
+`python3 24Bit.py input.png output_image_Py.png output_image_C.png colormap_Py.txt colormap_C.txt --seed 214 --num_centroids 256 --max_iters 3`
 
 **Submission Requirements:**
 
