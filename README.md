@@ -1,3 +1,8 @@
+My submitted code is in submission/kernel.c
+My submitted makefile is in submission/makefile
+My writeup is in submission/Writeup.pdf
+Assignment description is below for convenience:
+
 **CS 214 Extra Credit 2: Advanced C Kernel (100 points)**
 
 The goal of this assignment is to continue becoming familiar with C kernels as well as perform a small performance analysis study of your kernel. Recall from assignment 2 that a kernel is a function or library you call from a higher level language, such Python or Java. Your task is to write a C kernel that is equivalent to a Python function and measure the performance differences between them. In addition to handing in programming code, you will hand in a write up that documents the performance difference between the C kernel and the Python version.
